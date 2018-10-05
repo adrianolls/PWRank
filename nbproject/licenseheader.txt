@@ -1,0 +1,8 @@
+<#if licenseFirst??>
+${licenseFirst}
+</#if>
+${licensePrefix} Adriano Luis Lopes da Silva
+${licensePrefix} Bwplay.net 03/10/2018
+<#if licenseLast??>
+${licenseLast}
+</#if>
